@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from プロジェクト &apos;konnichiwa_servlet&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;konnichiwa_servlet&apos;&#x0D;&#x0A;- オリジナル要素: &apos;jsp.html&apos;" description="要素を削除" element1="WebContent/jsp.html" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1622428462800" subPackages="false" version="1.0"/>
+</session>

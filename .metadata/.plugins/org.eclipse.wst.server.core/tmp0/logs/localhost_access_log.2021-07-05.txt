@@ -1,0 +1,10 @@
+127.0.0.1 - - [05/Jul/2021:14:16:38 +0900] "GET / HTTP/1.1" 404 901
+0:0:0:0:0:0:0:1 - - [05/Jul/2021:14:16:41 +0900] "GET /ActionTagProject/jspactiontag_output.jsp HTTP/1.1" 200 257
+0:0:0:0:0:0:0:1 - - [05/Jul/2021:14:17:30 +0900] "GET /ActionTagProject/jspactiontag_input.html HTTP/1.1" 200 409
+0:0:0:0:0:0:0:1 - - [05/Jul/2021:14:17:45 +0900] "GET /ActionTagProject/jspactiontag_output.jsp?data=%E7%9F%B3%E4%BA%95 HTTP/1.1" 200 259
+127.0.0.1 - - [05/Jul/2021:14:24:24 +0900] "GET / HTTP/1.1" 404 901
+0:0:0:0:0:0:0:1 - - [05/Jul/2021:14:24:25 +0900] "GET /FirstBeansProject/addition_input.html HTTP/1.1" 200 398
+0:0:0:0:0:0:0:1 - - [05/Jul/2021:14:24:38 +0900] "GET /FirstBeansProject/AdditionServlet?value1=5&value2=15 HTTP/1.1" 200 257
+127.0.0.1 - - [05/Jul/2021:14:27:54 +0900] "GET / HTTP/1.1" 404 901
+0:0:0:0:0:0:0:1 - - [05/Jul/2021:14:27:54 +0900] "GET /FirstBeansProject/addition_beansisnotused_input.html HTTP/1.1" 200 441
+0:0:0:0:0:0:0:1 - - [05/Jul/2021:14:28:06 +0900] "GET /FirstBeansProject/AdditionServlet_BeansIsNotUsed?value1=5&value2=15 HTTP/1.1" 200 287

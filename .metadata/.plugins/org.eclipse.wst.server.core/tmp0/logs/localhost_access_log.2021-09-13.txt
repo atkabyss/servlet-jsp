@@ -1,0 +1,8 @@
+127.0.0.1 - - [13/Sep/2021:16:50:20 +0900] "GET / HTTP/1.1" 404 901
+0:0:0:0:0:0:0:1 - - [13/Sep/2021:16:50:22 +0900] "GET /practice6-1/SelectServlet1 HTTP/1.1" 200 414
+127.0.0.1 - - [13/Sep/2021:16:53:45 +0900] "GET / HTTP/1.1" 404 901
+0:0:0:0:0:0:0:1 - - [13/Sep/2021:16:53:46 +0900] "GET /practice6-2/SelectServlet2 HTTP/1.1" 200 423
+127.0.0.1 - - [13/Sep/2021:16:56:57 +0900] "GET / HTTP/1.1" 404 901
+0:0:0:0:0:0:0:1 - - [13/Sep/2021:16:56:57 +0900] "GET /practice6-3/InsertServlet1 HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [13/Sep/2021:16:59:49 +0900] "GET /practice6-3/index.html HTTP/1.1" 200 458
+0:0:0:0:0:0:0:1 - - [13/Sep/2021:17:00:20 +0900] "GET /practice6-3/InsertServlet1?subjectid=20&subjectname=Linux%E5%85%A5%E9%96%80 HTTP/1.1" 200 202

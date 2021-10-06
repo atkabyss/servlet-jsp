@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="パッケージ &apos;filter&apos; を &apos;Redirect/src/main/java&apos; にコピー&#x0D;&#x0A;- 元のプロジェクト: &apos;practice4_1&apos;&#x0D;&#x0A;- 宛先要素: &apos;Redirect/src/main/java&apos;&#x0D;&#x0A;- オリジナル要素: &apos;practice4_1/src/filter&apos;" description="パッケージをコピー" destination="=Redirect/src\/main\/java" element1="/src&lt;filter" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1624856198659" version="1.0"/>
+</session>

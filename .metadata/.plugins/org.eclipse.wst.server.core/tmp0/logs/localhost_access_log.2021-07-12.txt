@@ -1,0 +1,11 @@
+127.0.0.1 - - [12/Jul/2021:14:21:59 +0900] "GET / HTTP/1.1" 404 901
+0:0:0:0:0:0:0:1 - - [12/Jul/2021:14:22:01 +0900] "GET /StudentInfoProject/studentinfo_input.html HTTP/1.1" 200 582
+0:0:0:0:0:0:0:1 - - [12/Jul/2021:14:22:21 +0900] "GET /StudentInfoProject/StudentInfoServlet?studentno=001&studentname=%E9%A0%88%E8%B3%80&schoolyear=1 HTTP/1.1" 200 431
+0:0:0:0:0:0:0:1 - - [12/Jul/2021:14:22:30 +0900] "GET /StudentInfoProject/studentinfo_input.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Jul/2021:14:22:57 +0900] "GET /StudentInfoProject/StudentInfoServlet?studentno=002&studentname=%E9%98%BF%E9%83%A8&schoolyear=2 HTTP/1.1" 200 431
+0:0:0:0:0:0:0:1 - - [12/Jul/2021:14:23:08 +0900] "GET /StudentInfoProject/studentinfo_output.jsp HTTP/1.1" 200 566
+127.0.0.1 - - [12/Jul/2021:16:17:23 +0900] "GET / HTTP/1.1" 404 901
+0:0:0:0:0:0:0:1 - - [12/Jul/2021:16:17:25 +0900] "GET /practice5-2/pettycashbook_input.html HTTP/1.1" 200 447
+0:0:0:0:0:0:0:1 - - [12/Jul/2021:16:18:06 +0900] "GET /practice5-2/PettyCashbookServlet?payment=500&comment=%E8%B2%B7%E3%81%84%E7%89%A9%E3%81%AE%E3%81%8A%E9%87%A3%E3%82%8A HTTP/1.1" 200 567
+0:0:0:0:0:0:0:1 - - [12/Jul/2021:16:18:20 +0900] "GET /practice5-2/PettyCashbookServlet?payment=1000&comment=%E8%B4%85%E6%B2%A2%E3%82%92%E6%88%91%E6%85%A2 HTTP/1.1" 200 635
+0:0:0:0:0:0:0:1 - - [12/Jul/2021:16:19:07 +0900] "GET /practice5-2/pettycashbook_input.html HTTP/1.1" 304 -

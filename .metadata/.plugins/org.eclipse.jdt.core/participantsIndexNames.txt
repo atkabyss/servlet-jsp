@@ -1,0 +1,15 @@
+INDEX VERSION 1.131
+C:\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\912595244.index
+\FirstBeansProject\src\main\java
+C:\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2696040592.index
+\AuthenticationProject\src\main\java
+C:\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1239360676.index
+\StudentInfoProject\src\main\java
+C:\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2907581530.index
+\konnichiwa_servlet\src
+C:\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3399180984.index
+\ActionTagProject\src\main\java
+C:\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3487763205.index
+\practice3-1\src
+C:\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3030884187.index
+\practice5-2\src\main\java

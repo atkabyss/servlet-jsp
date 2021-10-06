@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="パッケージ &apos;filter&apos; を &apos;ActionTagProject/src/main/java&apos; に移動&#x0D;&#x0A;- 元のプロジェクト: &apos;CharacterInputPJ&apos;&#x0D;&#x0A;- 宛先要素: &apos;ActionTagProject/src/main/java&apos;&#x0D;&#x0A;- オリジナル要素: &apos;CharacterInputPJ/src/filter&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新" description="パッケージを移動" destination="=ActionTagProject/src\/main\/java" element1="/src&lt;filter" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1625462002206" version="1.0"/>
+</session>

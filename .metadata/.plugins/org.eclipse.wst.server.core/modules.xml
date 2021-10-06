@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:CharacterInputPJ" serverId="localhost の Tomcat9 (Java11)"/>
+  <module moduleId="org.eclipse.jst.jee.server:HelloWorldPJ" serverId="localhost の Tomcat9 (Java11)"/>
+  <module moduleId="org.eclipse.jst.jee.server:practice2_1" serverId="localhost の Tomcat9 (Java11)"/>
+</modules>
